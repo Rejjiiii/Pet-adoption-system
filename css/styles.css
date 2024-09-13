@@ -1,0 +1,29 @@
+/** SIGNIN SECTION **/
+.bg-signin-image {
+    background-image: url(../images/signin.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-signup-image {
+    background-image: url(../images/signup.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+ 
+  form.user .custom-checkbox.small label {
+    line-height: 1.5rem;
+  }
+  
+  form.user .form-control-user {
+    font-size: 0.8rem;
+    border-radius: 10rem;
+    padding: 1.5rem 1rem;
+  }
+  
+  form.user .btn-user {
+    font-size: 0.8rem;
+    border-radius: 10rem;
+    padding: 0.75rem 1rem;
+  }
+  /** SIGNUP SECTION **/
